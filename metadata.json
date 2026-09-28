@@ -1,0 +1,7 @@
+{
+  "name": "AI Debate Coach",
+  "description": "A comprehensive AI-powered platform for competitive debaters to practice, research, and receive advanced rhetorical analysis using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
